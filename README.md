@@ -33,4 +33,4 @@ error: config file not found: `.pre-commit-config.yaml`
 
 ## Related Issue
 
-TBD
+https://github.com/cachix/devenv/issues/2589
